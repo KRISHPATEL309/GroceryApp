@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:id="@+id/Bottom_nev"
+    tools:context=".Bottom_Nav_Activity">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomnavigation"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:menu="@menu/menu"
+        android:background="@drawable/round_bottomnavigation"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:itemIconSize="30dp"
+        app:itemRippleColor="@color/background_color"
+        app:labelVisibilityMode="selected" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

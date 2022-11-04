@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="login">Login</string>
+    <string name="signup">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="new_here">New Here? Register</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_mobile">Mobile Number</string>
+    <string name="hint_confirm_pass">Confirm Password</string>
+    <string name="already_login">Already Member? Login</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View all</string>
+    <string name="fruits">Fruits</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
